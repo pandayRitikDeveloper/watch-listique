@@ -1,6 +1,10 @@
 import React,{useState,useEffect} from 'react'
-impo
+import axios from 'axios'
+import { PRODUCTS_URL } from '../constant'
 function Product() {
+    useEffect(()=>{
+
+    },[])
   return (
     <div>
       
